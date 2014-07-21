@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="BasicCanvasGame">
+    <output-path>$PROJECT_DIR$/out/artifacts/BasicCanvasGame</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="Jake" />
+        <option name="keyPassword" value="amFjb2IzMzM=" />
+        <option name="keyStorePassword" value="amFjb2IzMzM=" />
+        <option name="keyStoreUrl" value="file://$PROJECT_DIR$/../key" />
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="BasicCanvasGame.apk">
+      <element id="android-final-package" facet="BasicGame/android/Android" />
+    </root>
+  </artifact>
+</component>
